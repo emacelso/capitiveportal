@@ -76,7 +76,7 @@ python-dotenv==0.17.1
     # via
     #   -r requirements.in
     #   environs
-python-ldap==3.3.1
+python-ldap==3.4.0
     # via django-auth-ldap
 pytz==2021.1
     # via
